@@ -37,7 +37,7 @@ int purchase = 6000;
 System.out.println((purchase >= 1000) ? purchase * 0.90 + "discount" : " no discount");
 
 char ch = 'J';
-System.out.println((ch > 'a' && ch < 'z' ) ? "lowercase" : (ch > 'A' && ch < 'Z') ? " uppercase" : (ch > '0' && ch < '9') ? "digit" : "special characters" );
+System.out.println((ch > 'a' && ch < 'z' ) ? "lowercase" : (ch > 'A' && ch < 'Z') ? " uppercase" : (ch > '0' && ch < '9') ? "digit" : "special characters" );2Increment
 
 
 
